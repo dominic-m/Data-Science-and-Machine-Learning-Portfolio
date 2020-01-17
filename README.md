@@ -9,6 +9,10 @@
 * Webscraping Wikipedia
 * Exploratory Data Analysis
 
+## Poverty and Unemployment by County
+* EDA
+* Clustering
+
 ## Yield Curve Analysis on Treasuries and Libor
 * PCA
 * Interactive plotting
