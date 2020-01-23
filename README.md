@@ -22,5 +22,5 @@
 
 ## A new look at IRIS
 
-## Webscraping Vivino
-* Webscraping Wikipedia
+## Webscraping
+* Webscraping Vivino
