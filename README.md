@@ -6,7 +6,6 @@
 * DNN and further enhancements
 
 ## Stock Price / Sector Analysis
-* Webscraping Wikipedia
 * Exploratory Data Analysis
 
 ## Poverty and Unemployment by County
@@ -22,3 +21,6 @@
 * Optimizations for the CNN (dropout, bn, ...)
 
 ## A new look at IRIS
+
+## Webscraping Vivino
+* Webscraping Wikipedia
