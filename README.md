@@ -20,7 +20,5 @@
 * Building a CNN
 * Optimizations for the CNN (dropout, bn, ...)
 
-## A new look at IRIS
-
 ## Webscraping
 * Webscraping Vivino
