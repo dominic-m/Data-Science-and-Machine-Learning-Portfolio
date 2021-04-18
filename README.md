@@ -21,4 +21,3 @@
 * Optimizations for the CNN (dropout, bn, ...)
 
 ## Webscraping
-* Webscraping Vivino
